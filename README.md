@@ -1,1 +1,1 @@
-# college-project
+# QR GENRATOR USING  HTML,CSS,JS.
